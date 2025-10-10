@@ -107,6 +107,7 @@ Deploy on Render, Heroku, or any Python-supported platform.
 Use .env for environment variables like API keys or database URLs.
 
 🔹 Future Enhancements
+
 ⏱ Real-time patient monitoring integration.
 
 💡 Advanced ensemble models for higher accuracy.
