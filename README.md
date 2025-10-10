@@ -81,9 +81,7 @@ COPD-Prediction-System/
 
 ## 🔹 Installation & Setup
 
-### 1️⃣ Clone the repository
-
-
+1️⃣ Clone the repository
 git clone https://github.com/yourusername/COPD-Prediction-System.git
 cd COPD-Prediction-System
 
@@ -94,10 +92,11 @@ venv\Scripts\activate
 3️⃣ Install dependencies
 pip install -r requirements.txt
 
-4️⃣ Run the application
-python app.py
-Access the app:
+4️⃣ Run the application using uvicorn 
+uvicorn app:app --reload
 
+5️⃣Test your API
+Access the app:
 FastAPI: http://localhost:8000
 
 
