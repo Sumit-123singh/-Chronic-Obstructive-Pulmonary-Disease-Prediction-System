@@ -50,7 +50,6 @@ It helps in **early detection and risk assessment**, supporting healthcare profe
 | Deployment        | Render / Heroku                             |
 
 ---
-
 ## 🔹 Project Structure
 
 COPD-Prediction-System/
@@ -73,8 +72,9 @@ COPD-Prediction-System/
 │
 ├── venv/ # Python virtual environment (ignored in git)
 ├── app.py # Main backend application
-├── requirements.txt # Dependencies
+├── requirements.txt # Project dependencies
 └── README.md # Project documentation
+
 
 
 
@@ -124,4 +124,9 @@ Use .env for environment variables like API keys or database URLs.
 🧾 Explainable AI (XAI) to interpret predictions.
 
 📱 Mobile-friendly UI for better accessibility.
+
+👨‍💻 Author
+
+Sumit Singh
+AI/ML Enthusiast | Backend developer
 
