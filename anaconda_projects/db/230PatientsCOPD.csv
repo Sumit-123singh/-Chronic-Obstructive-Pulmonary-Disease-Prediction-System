@@ -1,0 +1,242 @@
+"ID Number
+",Age,Gender ,"BMI, kg/m2",Height/m,COPD GOLD,History of Heart Failure,Location,working place,mMRC,status of smoking,Pack History,Vaccination,Depression,Dependent,Temperature,Respiratory Rate,Heart Rate,Blood pressure,Oxygen Saturation,Sputum,FEV1
+1,47,Male,21<BMI<25,1.65,1,Non,Barcelona,1,0,3,0,Non,Non,Non,Low,13,Higher,Normal,0.97,Normal,80% or above
+2,60,Female,<21 kg/m2,1.78,3,Non,Barcelona,4,3,1,15,Non,Yes,Non,Normal,18,Higher,Stage1,0.95,Purulent,30–49%
+3,55,Female,30 ≥BMI <35 ,1.78,4,Yes,Barcelona,3,4,1,60,Non,Yes,Non,High,24,Normal,Crisis,0.89,Purulent,29% or less
+4,78,Male,25≥ BMI <30,1.98,2,Non,Barcelona,1,1,2,37,Non,Non,Non,Low,15,Higher,Normal,0.98,Normal,50–79%
+5,71,Male,30 ≥BMI <35,1.83,4,Yes,Barcelona,3,4,1,41,Yes,Non,Non,High,22,Lower,Crisis,0.88,Purulent,29% or less
+6,82,Female,≥35 kg/m2,1.61,3,Non,Barcelona,4,3,1,64,Yes,Non,Yes,High,20,Lower,Stage 2,0.94,Purulent,30–49%
+7,79,Male,21<BMI<25 ,1.72,2,Non,Barcelona,1,2,1,32,Yes,Non,Yes,Normal,18,Higher,Elevate,0.95,Normal,50–79%
+8,69,Female,21<BMI<25  ,1.76,1,Non,Barcelona,2,0,3,0,Non,Non,Non,Normal,13,Higher,Normal,0.96,Normal,80% or above
+9,45,Male,21<BMI<25 ,1.66,2,Yes,Barcelona,1,1,2,20,Non,Non,Non,Normal,15,Higher,Normal,0.97,Normal,50–79%
+10,88,Male,<21 kg/m2,1.86,3,Yes,Barcelona,2,3,1,54,Yes,Non,Yes,High,21,Lower,Stage 2,0.93,Purulent,30–49%
+11,62,Male,21<BMI<25,1.91,1,Non,Barcelona,2,1,1,27,Yes,Yes,Non,Normal,16,Normal,Normal,0.97,Normal,50–79%
+12,49,Male,21<BMI<25 ,1.65,1,Non,Barcelona,4,1,3,0,Non,Non,Non,Normal,17,Normal,Normal,0.96,Normal,80% or above
+13,91,Female,30 ≥BMI <35,1.72,3,Yes,Barcelona,4,3,3,0,Yes,Non,Yes,low,21,Lower,Crisis,0.92,Purulent,29% or less
+14,77,Female,30 ≥BMI <35,1.61,4,Non,Barcelona,3,4,1,18,Yes,Non,Non,Low,22,Higher,Crisis ,0.88,Purulent,30–49%
+15,57,Male,<21 kg/m2,1.73,3,Non,Barcelona,1,3,1,35,Non,Non,Non,High,20,Higher,Crisis,0.92,Purulent,30–49%
+16,52,Male ,21<BMI<25 ,1.8,3,Yes,Barcelona,2,4,1,39,Non,Non,Non,High,22,Higher,Crisis ,0.89,Purulent,29% or less
+17,78,Female,<21 kg/m2,1.67,1,Yes,Barcelona,4,0,1,27,Yes,Non,Non,normal,17,Normal,Normal,0.95,Normal,80% or above
+18,64,Male,21<BMI<25 ,1.88,1,Non,Barcelona,2,0,3,0,Non,Non,Non,Normal,16,Normal,Normal,0.95,Purulent,30–49%
+19,93,Female,30 ≥BMI <35,1.65,2,Non,Barcelona,4,2,2,40,Yes,Yes,Yes,Low,21,Higher,Stage1,0.95,Normal,30–49%
+20,97,Male ,30 ≥BMI <35,1.69,1,Non,Barcelona,4,1,2,56,Yes,Non,Yes,Low,19,Lower,Elevate,0.96,Normal,30–49%
+21,80,Male,21<BMI<25 ,1.71,1, Non,Barcelona,4,0,3,0,Yes,Non,Yes,Low,17,Normal,Elevate,0.97,Normal,30–49%
+22,61,Female,21<BMI<25 ,1.77,1,Non,Barcelona,2,0,3,0,Non,Non,Non,Normal,16,Normal,Normal,0.97,Normal,80% or above
+23,54,Female,<21 kg/m2,1.65,2,Non,Barcelona,3,2,3,0,Non,Yes,Non,High,19,Higher,Elevate,0.95,Purulent,50–79%
+24,47,Female,25≥ BMI <30,1.72,2,Yes,Barcelona,1,3,1,44,Non,Non,Non,High,19,Higher,Stage1,0.96,Normal,50–79%
+25,63,Male,25≥ BMI <30,1.9,4,Yes,Barcelona,1,4,1,37,Non,Non,Non,High,22,Higher,Crisis ,0.9,Purulent,29% or less
+26,57,Female,30 ≥BMI <35 ,1.69,4,Non,Barcelona,1,3,1,50,Non,Yes,Non,High,21,Higher,Stage1,0.95,Purulent,30–49%
+27,58,Male,25≥ BMI <30,1.73,3,Non,Barcelona,1,3,2,19,Non,Yes,Non,High,21,Higher,Stage1,0.94,Purulent,29% or less
+28,61,Male,<21 kg/m2,1.81,1,Non,Barcelona,4,0,3,0,Non,Non,Non,Normal,15,Normal,Normal,0.97,Normal,80% or above
+29,69,Female,21<BMI<25 ,1.6,3,Yes ,Barcelona,3,3,1,37,Yes,Non,Non,High ,20,Higher,Stage 2,0.93,Normal,30–49%
+30,56,Male,30 ≥BMI <35 ,1.66,4,Non,Barcelona,1,4,1,69,Non,Non,Non,High ,22,Higher,Crisis ,0.93,Purulent,29% or less
+31,68,Female,25≥ BMI <30,1.58,3,Yes,Barcelona,2,3,1,62,Non,Non,Non,High ,21,Higher,Stage2 ,0.94,Normal,30–49%
+32,47,Female,25≥ BMI <30,1.71,1,Non,Barcelona,4,0,3,0,Non,Non,Non,Normal,17,Normal,Normal,0.97,Normal,80% or above
+33,80,Male,30 ≥BMI <35 ,1.73,3,Non,Barcelona,3,3,1,46,Yes,Non,Yes,High ,22,Higher,Crisis ,0.91,Purulent,29% or less
+34,49,Female,21<BMI<25 ,1.79,1,Non,Barcelona,2,1,3,0,Non,Non,Non,Normal,18,Normal,Elevate,0.96,Normal,50–79%
+35,69,Male,≥35 kg/m2,1.87,4,Yes,Barcelona,3,4,1,57,Non,Yes,Non,High,22,Higher,Crisis ,0.89,Purulent,29% or less
+36,70,Male,<21 kg/m2,1.78,2,Non,Barcelona,3,1,2,61,Non,Non,Non,Lower,19,Higher,Elevate,0.95,Normal,50–79%
+37,55,Female,21<BMI<25 ,1.73,2,Non,Barcelona,3,2,3,0,Non,Yes,Non,Normal,17,Normal,Elevate,0.96,Normal,80% or above
+38,67,Male,25≥ BMI <30,1.86,1,Non,Barcelona,4,2,3,0,Non,Non,Non,Normal,18,Normal,Normal,0.97,Normal,80% or above
+39,82,Male,25≥ BMI <30,1.81,1,Yes,Barcelona,4,1,3,0,Yes,Non,Yes,Normal,18,Normal,Normal,0.96,Normal,80% or above
+40,89,Male,30 ≥BMI <35 ,1.68,3,Non,Barcelona,1,4,1,42,Yes,Non,Yes,High ,22,Lower,Crisis ,0.9,Normal,29% or less
+41,76,Female,<21 kg/m2,1.63,3,Yes,Barcelona,3,3,1,66,Yes,Non,Yes,High ,21,Higher,Stage2 ,0.93,Normal,30–49%
+42,85,Male,25≥ BMI <30,1.69,2,Non ,Barcelona,4,2,1,34,Yes,Yes,Yes,Low,19,Normal,Stage2 ,0.93,Normal,30–49%
+43,51,Male,25≥ BMI <30,1.75,1,Non,Barcelona,4,0,3,0,Non,Non,Non,Normal,17,Normal,Normal,0.98,Normal,80% or above
+44,72,Female,21<BMI<25 ,1.69,2,Non,Barcelona,4,2,3,0,Non,Yes,Non,Low,18,Normal,Elevate,0.96,Normal,80% or above
+45,95,Female,21<BMI<25 ,1.85,2,Yes,Barcelona,3,2,2,28,Yes,Non,Yes,Normal,17,Normal,Elevate,0.96,Normal,80% or above
+46,49,Male,25≥ BMI <30,1.56,1,Non,Barcelona,4,0,3,0,Non,Non,Non,Normal,16,Normal,Normal,0.98,Normal,80% or above
+47,87,Male,<21 kg/m2,1.7,1,Non,Barcelona,4,2,1,46,Yes,Non,Yes,Low ,19,Higher,Elevate,0.94,Purulent,30–49%
+48,66,Female,25≥ BMI <30,1.74,2,Non,Barcelona,2,1,2,30,Non,Non,Non,Normal,15,Normal,Normal,0.96,Normal,80% or above
+49,69,Female,30 ≥BMI <35 ,1.65,3,Non,Barcelona,1,3,1,50,Yes,Yes,Non,High ,21,Higher,Stage2 ,0.91,Normal,29% or less
+50,49,Male,21<BMI<25 ,1.87,1,Non,Barcelona,4,0,3,0,Non,Non,Non,Normal,15,Normal,Normal,0.98,Normal,80% or above
+51,55,Male,21<BMI<25 ,1.77,2,Yes,Barcelona,2,1,3,0,Non,Non,Non,Normal,17,Normal,Elevate,0.97,Normal,80% or above
+52,74,Male,30 ≥BMI <35 ,1.71,4,Yes,Barcelona,1,3,1,61,Non,Non,Non,High,21,Higher,Stage1,0.93,Purulent,30–49%
+53,64,Female,25≥ BMI <30,1.72,1,Non,Barcelona,3,0,3,0,Non,Non,Non,Normal,16,Normal,Normal,0.98,Normal,80% or above
+54,66,Female,≥35 kg/m2,1.64,3,Yes,Barcelona,3,4,1,60,Non,Non,Non,High ,23,Higher,Crisis ,0.89,Normal,29% or less
+55,72,Female,25≥ BMI <30,1.86,1,Non ,Barcelona,4,0,2,32,Non,Non,Non,Normal,18,Higher,Normal,0.96,Normal,80% or above
+56,45,Male,30 ≥BMI <35 ,1.76,2,Non,Barcelona,4,1,3,0,Non,Non,Non,Normal,15,Normal,Normal,0.98,Normal,80% or above
+57,57,Male,21<BMI<25 ,1.92,2,Non,Barcelona,4,2,3,0,Non,Yes,Non,High,18,Higher,Elevate,0.95,Normal,50–79%
+58,56,Male,25≥ BMI <30,1.69,1,Non,Barcelona,2,2,2,19,Non,Yes,Non,High,18,Higher,Stage1,0.94,Purulent,30–49%
+59,80,Male,<21 kg/m2,1.81,1,Non,Barcelona,3,0,3,0,Yes,Non,Non,Normal,16,Normal,Normal,0.96,Normal,80% or above
+60,66,Female,25≥ BMI <30,1.64,2,Non,Barcelona,2,0,3,0,Non,Non,Non,Normal,15,Normal,Normal,0.98,Normal,80% or above
+61,50,Female,≥35 kg/m2,1.7,4,Non,Barcelona,1,4,1,32,Non,Non,Non,High,22,Higher,Crisis  ,0.88,Normal,30–49%
+62,53,Male,25≥ BMI <30,1.88,1,Yes,Barcelona,4,1,3,0,Non,Non,Non,Normal,16,Normal,Normal,0.96,Normal,80% or above
+63,54,Female,21<BMI<25 ,1.78,1,Non,Barcelona,2,1,3,0,Non,Non,Non,Normal,15,Normal,Normal,0.98,Normal,80% or above
+64,71,Male,25≥ BMI <30,1.75,1,Non,Barcelona,4,2,3,0,Yes,Non,Non,Low,16,Normal,Elevate,0.96,Normal,50–79%
+65,62,Male,30 ≥BMI <35 ,1.74,2,Non,Barcelona,2,2,1,15,Non,Yes,Non,High,19,Higher,Elevate,0.95,Normal,50–79%
+66,56,Male,21<BMI<25 ,1.85,2,Yes,Barcelona,3,1,2,22,Non,Non,Yes,Normal,18,Higher,Elevate,0.95,Purlent,50–79%
+67,82,Male,25≥ BMI <30,1.69,4,Yes,Barcelona,1,4,1,55,Yes,Non,Yes,High,21,Higher,Crisis  ,0.9,Normal,29% or less
+68,86,Male,<21 kg/m2,1.73,1,Non,Barcelona,3,2,3,0,Yes,Non,Non,Low,13,Lower,Stage1,0.95,Normal,30–49%
+69,49,Female,25≥ BMI <30,1.87,1,Non,Barcelona,4,1,3,0,Non,Non,Non,Normal,16,Normal,Elevate,0.97,Normal,80% or above
+70,60,Male,21<BMI<25 ,1.98,1,Non,Barcelona,2,2,1,37,Non,Yes,Non,Normal,18,Higher,Elevate,0.95,Purlent,50–79%
+71,55,Male,21<BMI<25 ,1.68,1,Non,Barcelona,4,0,3,0,Non,Non,Non,Normal,16,Normal,Normal,0.96,Normal,80% or above
+72,69,Male,25≥ BMI <30,1.84,2,Non,Barcelona,3,2,1,21,Non,Yes,Non,High,18,Normal,Elevate,0.96,Normal,80% or above
+73,93,Male,21<BMI<25 ,1.57,1,Non,Barcelona,4,1,3,0,Yes,Non,Yes,Low,14,Normal,Elevate,0.97,Normal,50–79%
+74,76,Female,25≥ BMI <30,1.71,3,Non,Barcelona,1,3,1,63,Non,Yes,Non,High,21,Higher,Stage 2,0.93,Normal,30–49%
+75,64,Male,30 ≥BMI <35 ,1.79,3,Yes,Barcelona,3,4,1,43,Non,Non,Non,High,22,Higher,Crisis ,0.89,Purlent,29% or less
+76,79,Female,25≥ BMI <30,1.67,1,Non,Barcelona,4,0,2,12,Non,Non,Yes,Low,16,Normal,Elevate,0.96,Normal,50–79%
+77,89,Female,30 ≥BMI <35 ,1.66,4,Yes,Barcelona,3,4,1,57,Yes,Yes,Yes,High,23,Higher,Crisis  ,0.88,Purlent,29% or less
+78,91,Male,<21 kg/m2,1.79,2,Non,Barcelona,4,3,3,0,Yes,Yes,Yes,Low,12,Lower,Crisis ,0.91,Normal,30–49%
+79,74,Female,21<BMI<25 ,1.8,1,Non,Barcelona,2,1,3,0,Yes,Non,Yes,Normal,15,Lower,Stage1,0.94,Normal,30–49%
+80,98,Male,<21 kg/m2,1.74,3,Non,Barcelona,3,3,1,32,Yes,Non,Non,High,21,Higher,Crisis  ,0.92,Purlent,29% or less
+81,65,Male,21<BMI<25 ,1.89,2,Yes,Barcelona,4,2,3,0,Non,Non,Non,Normal,18,Normal,Stage 2,0.95,Normal,50–79%
+82,61,Female,25≥ BMI <30,1.81,1,Non,Barcelona,4,0,3,0,Non,Non,Non,Normal,16,Normal,Normal,0.96,Normal,80% or above
+83,74,Female,30 ≥BMI <35 ,1.68,3,Yes,Barcelona,1,4,2,41,Non,Non,Non,High,21,Higher,Crisis  ,0.9,Normal,29% or less
+84,73,Male,30 ≥BMI <35 ,1.72,4,Non,Barcelona,1,4,1,67,Non,Non,Non,High,22,Higher,Crisis  ,0.89,Purlent,29% or less
+85,55,Female,21<BMI<25 ,1.76,1,Non,Barcelona,2,0,3,0,Non,Non,Non,Normal,17,Lower,Normal,0.96,Normal,50–79%
+86,65,Female,25≥ BMI <30,1.87,2,Non,Barcelona,2,1,3,0,Non,Yes,Non,Normal,15,Normal,Normal,0.98,Purlent,80% or above
+87,45,Male,21<BMI<25 ,1.86,2,Non,Barcelona,2,1,3,0,Non,Non,Non,Normal,18,Normal,Normal,0.98,Normal,80% or above
+88,61,Male,30 ≥BMI <35 ,1.59,3,Yes,Barcelona,3,2,1,39,Non,Yes,Non,High,19,Lower,Stage1,0.95,Normal,50–79%
+89,49,Male,21<BMI<25 ,1.65,2,Non,Barcelona,4,2,1,26,Non,Yes,Non,Normal,15,Normal,Normal,0.97,Normal,80% or above
+90,72,Male,≥35 kg/m2,1.64,4,Non,Barcelona,3,4,1,49,Non,Non,Non,High,22,Higher,Crisis  ,0.88,Purlent,29% or less
+91,60,Female,21<BMI<25 ,1.84,1,Yes,Barcelona,4,0,3,0,Non,Non,Non,Normal,16,Lower,Normal,0.97,Normal,80% or above
+92,55,Male,25≥ BMI <30,1.69,1,Non ,Barcelona,4,0,3,0,Non,Non,Non,Normal,15,Normal,Normal,0.97,Normal,80% or above
+93,81,Female,21<BMI<25 ,1.68,1,Non ,Barcelona,4,0,3,0,Yes,Non,Yes,Normal,17,Normal,Normal,0.98,Normal,80% or above
+94,45,Female,25≥ BMI <30,1.84,2,Yes,Barcelona,2,1,3,0,Non,Non,Non,Normal,15,Lower,Elevate,0.96,Normal,80% or above
+95,58,Female,21<BMI<25 ,1.76,2,Yes,Barcelona,4,2,1,58,Non,Yes,Non,High,18,Higher,Stage2 ,0.94,Purlent,50–79%
+96,42,Male,25≥ BMI <30,1.87,1,Non,Barcelona,4,1,1,68,Non,Non,Non,Normal,14,Normal,Normal,0.97,Normal,80% or above
+97,84,Female,<21 kg/m2,1.67,3,Yes,Barcelona,3,3,1,38,Yes,Non,Yes,Low ,22,Higher,Crisis  ,0.89,Purlent,29% or less
+98,76,Male,21<BMI<25 ,1.77,2,Non,Barcelona,3,3,2,23,Yes,Yes,Non,High,21,Higher,Crisis ,0.91,Normal,30–49%
+99,66,male,25≥ BMI <30,1.62,4,Non,Barcelona,1,4,1,52,Non,Non,Non,High,22,Higher,Crisis  ,0.88,Purlent,29% or less
+100,57,Female,21<BMI<25 ,1.91,2,Non,Barcelona,3,2,1,29,Non,Non,Non,Normal,18,Lower,Elevate,0.95,Normal,50–79%
+101,47,Male,21<BMI<25 ,1.76,1,Non,Barcelona,4,1,3,0,Non,Non,Non,Normal,15,Normal,Normal,0.97,Normal,80% or above
+102,51,Female,25≥ BMI <30,1.72,2,Non,Barcelona,4,2,3,0,Non,Yes,Non,Normal,17,Normal,Elevate,0.96,Normal,80% or above
+103,72,Male,21<BMI<25 ,1.65,2,Non,Barcelona,3,2,3,0,Yes,Non,Non,Normal,15,Normal,Elevate,0.97,Normal,80% or above
+104,45,Female,25≥ BMI <30,1.81,1,Non,Barcelona,2,1,3,0,Non,Non,Non,Normal,14,Higher,Normal,0.98,Normal,80% or above
+105,69,Male,21<BMI<25 ,1.79,2,Non,Barcelona,2,2,1,19,Non,Yes,Non,High ,16,Normal,Elevate,0.97,Purlent,50–79%
+106,54,Male,≥35 kg/m2,1.75,4,Yes,Barcelona,1,4,1,56,Non,Non,Non,High,21,Higher,Crisis ,0.89,Normal,29% or less
+107,82,Female,<21 kg/m2,1.56,1,Non,Barcelona,4,2,3,0,Yes,Non,Yes,Normal,17,Normal,Normal,0.96,Normal,80% or above
+108,78,Female,21<BMI<25 ,1.68,1,Non,Barcelona,4,2,2,28,Yes,Yes,Non,Normal,14,Higher,Stage2 ,0.94,Purlent,50–79%
+109,90,Female,<21 kg/m2,1.77,3,Yes,Barcelona,1,4,1,44,Yes,Non,Yes,Low,22,Higher,Crisis,0.89,Purlent,29% or less
+110,55,Male,25≥ BMI <30,1.84,3,Non ,Barcelona,3,3,1,34,Non,Non,Non,Normal,20,Higher,Stage2 ,0.92,Normal,30–49%
+111,62,Male,21<BMI<25 ,1.82,1,Non,Barcelona,4,1,3,0,Non,Non,Non,Normal,15,Normal,Elevate,0.97,Normal,80% or above
+112,59,Female,21<BMI<25 ,1.69,1,Non,Barcelona,4,1,3,0,Non,Non,Non,Normal,17,Normal,Normal,0.96,Normal,80% or above
+113,70,Male,30 ≥BMI <35,1.74,2,Yes,Barcelona,2,1,3,0,Non,Non,Non,Normal,14,Normal,Elevate,0.97,Normal,80% or above
+114,61,Male,25≥ BMI <30,1.58,1,Non,Barcelona,3,2,2,35,Non,Yes,Non,High,19,Higher,Elevate,0.95,Purlent,50–79%
+115,84,Female,<21 kg/m2,1.74,3,Non,Barcelona,3,2,3,0,Yes,Non,Yes,Low,18,Higher,Stage1,0.95,Normal,50–79%
+116,45,Male,21<BMI<25 ,1.87,1,Non,Barcelona,2,1,1,42,Non,Yes,Non,Normal,15,Higher,Elevate,0.96,Purlent,50–79%
+117,61,Female,21<BMI<25 ,1.75,1,Non,Barcelona,4,1,1,29,Non,Yes,Non,Normal,15,Normal,Normal,0.97,Normal,80% or above
+118,87,Female,25≥ BMI <30,1.62,2,non,Barcelona,4,2,3,0,Yes,Non,Non,High,19,Higher,Stage1,0.94,Normal,50–79%
+119,73,Female,30 ≥BMI <35,1.89,2,Non,Barcelona,4,2,3,0,Yes,Non,Non,High,17,Higher,normal,0.95,Normal,50–79%
+120,81,Male,25≥ BMI <30,1.66,1,Non,Barcelona,4,1,3,0,Yes,Non,Non,Normal,14,Normal,Elevate,0.97,Normal,80% or above
+121,74,Male,≥35 kg/m2,1.81,4,Yes,Barcelona,1,2,3,0,Non,Non,Non,Normal,17,Higher,Elevate,0.96,Purlent,50–79%
+122,68,Female,21<BMI<25 ,1.69,2,Non,Barcelona,3,3,1,56,Non,Yes,Non,Higher,21,Higher,Stage2 ,0.9,Normal,29% or less
+123,65,Male,≥35 kg/m2,1.73,3,Yes,Barcelona,3,4,1,52,Non,Non,Non,Higher,21,Higher,Stage2,0.9,Purlent,30–49%
+124,52,Male,21<BMI<25 ,1.85,2,Non,Barcelona,2,2,3,0,Non,Non,Non,Normal,15,Normal,Elevate,0.95,Normal,50–79%
+125,41,Male,30 ≥BMI <35,1.86,1,Non,Barcelona,4,1,2,32,Non,Non,Non,Normal,14,Normal,Normal,0.97,Normal,80% or above
+126,72,Female,25≥ BMI <30,1.58,1,Non,Barcelona,4,2,3,0,Non,Non,Non,Higher,17,Higher,Elevate,0.95,normal,50–79%
+127,63,Male,21<BMI<25 ,1.63,1,Non,Barcelona,4,1,4,18,Non,Non,Non,Normal,14,Normal,Elevate,0.97,Normal,80% or above
+128,86,Female,<21 kg/m2,1.52,3,Non,Barcelona,1,3,3,0,Yes,Yes,Yes,Low,19,Higher,Stage1,0.93,Purlent,30–49%
+129,80,Female,25≥ BMI <30,1.59,1,Non,Barcelona,4,2,3,0,Yes,Yes,Non,High,16,Normal,Elevate,0.95,Normal,50–79%
+130,44,Male,21<BMI<25 ,1.79,1,Yes,Barcelona,2,0,3,0,Non,Yes,Non,Normal,15,Normal,Normal,0.98,Normal,80% or above
+131,89,Female,21<BMI<25 ,1.76,4,Yes,Barcelona,3,4,1,33,Non,Yes,Non,High,20,Higher,Stage1,0.94,Normal,30–49%
+132,45,Male,30 ≥BMI <35,1.63,3,Yes,Barcelona,1,3,1,16,Yes,Non,Yes,Normal,14,Normal,Elevate,0.96,Normal,50–79%
+133,68,Male,25≥ BMI <30,1.71,2,Non,Barcelona,2,1,1,15,Yes,Non,Non,Normal,13,Normal,Elevate,0.95,Normal,80% or above
+134,78,Male,25≥ BMI <30,1.5,1,Non,Barcelona,4,1,3,0,Non,Non,Non,Normal,13,Normal,Elevate,0.96,Normal,80% or above
+135,84,Male,25≥ BMI <30,1.62,3,Yes,Barcelona,3,3,2,38,Yes,Non,Yes,High,20,Higher,Stage2,0.92,Purlent,29% or less
+136,54,Female,21<BMI<25 ,1.67,2,Non,Barcelona,4,2,1,14,Non,Non,Non,Normal,16,Normal,Normal,0.96,Normal,80% or above
+137,64,Female,21<BMI<25 ,1.85,1,Non,Barcelona,3,2,2,35,Yes,Yes,Non,Normal,16,Normal,Elevate,0.97,Normal,80% or above
+138,66,Male,25≥ BMI <30,1.77,1,Non,Barcelona,4,1,2,28,Non,Non,Non,Normal,13,Normal,Normal,0.96,Normal,80% or above
+139,81,Male,25≥ BMI <30,1.68,4,Yes,Barcelona,1,4,3,0,Yes,Non,Yes,High,23,Higher,Crisis,0.92,Purlent,29% or less
+140,68,Female,25≥ BMI <30,1.69,1,Non,Barcelona,2,1,3,0,Yes,Non,Non,Normal,12,Normal,Normal,0.97,Normal,80% or above
+141,51,Male,30 ≥BMI <35,1.82,1,NoN,Barcelona,4,1,2,14,Yes,Non,Non,Normal,15,Normal,Elevate,0.95,Normal,80% or above
+142,69,Female,21<BMI<25 ,1.59,2,Non,Barcelona,3,2,3,0,Yes,Non,Non,Normal,12,Normal,Normal,0.97,Normal,80% or above
+143,63,Female,21<BMI<25 ,1.85,4,Non,Barcelona,1,4,1,32,Non,Yes,NoN,High,21,Higher,Stage2,0.93,Purlent,30–49%
+144,57,Female,30 ≥BMI <35,1.63,2,Yes,Barcelona,3,1,1,44,Yes,Yes,Non,Normal,18,Normal,Elevate,0.95,Purlent,50–79%
+145,46,Female,30 ≥BMI <35,1.88,1,Non,Barcelona,3,1,2,34,Yes,Non,Non,Normal,15,Normal,Normal,0.96,Normal,80% or above
+146,83,Male,<21 kg/m2,1.69,3,Yes,Barcelona,4,3,2,44,Yes,Non,Yes,High,21,Higher,Stage2,0.93,Purlent,30–49%
+147,84,Male,<21 kg/m2,1.78,2,Yes,Barcelona,2,1,3,0,Yes,Non,Non,Normal,18,Normal,Elevate,0.96,Normal,80% or above
+148,68,Male,21<BMI<25 ,1.56,4,Non,Barcelona,1,4,1,46,Yes,Non,Non,High,22,Higher,Crisis,0.89,Purlent,29% or less
+149,69,Female,25≥ BMI <30,1.79,2,Non,Barcelona,4,2,2,47,Non,Yes,Non,Normal,19,Higher,Stage1,0.95,Purlent,50–79%
+150,62,Male,<21 kg/m2,1.76,3,Yes,Barcelona,3,4,1,39,Yes,Non,Non,High,22,Higher,Crisis,0.9,Normal,30–49%
+151,82,Female,30 ≥BMI <35,1.59,1,Non,Barcelona,4,0,3,0,Yes,Non,Non,Normal,17,Normal,Normal,0.95,Normal,50–79%
+152,70,Female,21<BMI<25 ,1.57,3,Yes,Barcelona,2,3,3,0,Yes,Yes,Non,High,20,Higher,Stage2,0.93,Normal,29% or less
+153,58,Female,21<BMI<25 ,1.82,1,Non,Barcelona,4,1,2,42,Non,Yes,Non,Normal,13,Normal,Normal,0.95,Normal,80% or above
+154,53,Male,<21 kg/m2,1.8,4,Non,Barcelona,1,4,1,38,Non,Yes,Non,High,21,Higher,Stage2,0.93,Purlent,50–79%
+155,54,Female,<21 kg/m2,1.77,3,Yes,Barcelona,3,3,2,36,Yes,Non,Non,High,20,Normal,Stage1,0.95,Normal,50–79%
+156,65,Male,30 ≥BMI <35,1.61,2,Non,Barcelona,4,1,3,0,Non,Non,Non,Normal,15,Normal,Elevate,0.96,Normal,80% or above
+157,61,Male,21<BMI<25 ,1.57,4,Non,Barcelona,2,4,1,39,Yes,Non,Non,High,22,Higher,Stage2,0.93,Purlent,30–49%
+158,50,Female,25≥ BMI <30,1.78,1,Non,Barcelona,4,0,2,26,Yes,Non,Non,Normal,13,Normal,Normal,0.99,Normal,80% or above
+159,60,Male,25≥ BMI <30,1.69,4,Yes,Barcelona,3,4,1,45,Yes,Yes,Non,Normal,22,Higher,Stage2,0.93,purlent,30–49%
+160,45,Female,<21 kg/m2,1.84,1,Non,Barcelona,4,1,3,0,Yes,Non,Non,Normal,17,Normal,Normal,0.98,Normal,80% or above
+161,63,Female,21<BMI<25 ,1.58,1,Yes,Barcelona,2,2,2,13,Non,Non,Non,Normal,16,Normal,Elevate,0.96,Normal,80% or above
+162,80,Male,25≥ BMI <30,1.57,4,Non,Barcelona,1,4,1,59,Yes,Non,Yes,High,23,Higher,Crisis,0.89,Purlent,29% or less
+163,69,Male,30 ≥BMI <35,1.55,4,Yes,Barcelona,3,3,1,44,Non,Yes,Non,High,21,Higher,Stage2,0.92,Normal,29% or less
+164,74,Female,30 ≥BMI <35,1.79,4,Non,Barcelona,2,4,2,11,Yes,Non,Non,High,22,Higher,Crisis,0.91,Purlent,29% or less
+165,64,Male,<21 kg/m2,1.51,1,Non,Barcelona,4,0,3,0,Non,Non,Non,Normal,14,Normal,Normal,0.97,Normal,80% or above
+166,64,Female,25≥ BMI <30,1.8,2,Yes,Barcelona,3,2,2,28,Yes,Non,Non,Normal,17,Normal,Elevate,0.96,purlent,50–79%
+167,59,Male,<21 kg/m2,1.54,4,Non,Barcelona,1,3,3,0,Yes,Non,Non,High,22,Higher,Stage2,0.92,Normal,30–49%
+168,84,Female,30 ≥BMI <35,1.59,4,Yes,Barcelona,4,4,3,0,Yes,Yes,Yes,High,22,Higher,Crisis,0.9,Purlent,29% or less
+169,77,Male,30 ≥BMI <35,1.8,1,Yes,Barcelona,4,1,1,44,Yes,Non,Non,High,19,Normal,Stage1,0.95,Normal,50–79%
+170,46,Female,25≥ BMI <30,1.79,2,Non,Barcelona,2,2,3,0,Yes,Non,Non,Normal,16,Normal,Elevate,0.96,Normal,80% or above
+171,54,Male,<21 kg/m2,1.52,4,Non,Barcelona,1,3,1,35,Yes,Yes,Non,High,22,Higher,Stage2,0.93,Normal,30–49%
+172,77,Female,<21 kg/m2,1.58,4,Yes,Barcelona,3,4,1,21,Non,Non,Yes,High,24,Higher,Crisis,0.88,Purlent,29% or less
+173,76,Male,30 ≥BMI <35,1.61,2,Non,Barcelona,2,1,2,15,Yes,Non,Non,Normal,15,Normal,Elevate,0.95,Normal,80% or above
+174,55,Male,21<BMI<25 ,1.77,2,Non,Barcelona,1,2,2,13,Yes,Non,Non,Normal,14,Normal,Normal,0.96,Normal,80% or above
+175,68,Male,25≥ BMI <30,1.53,1,Non,Barcelona,4,2,1,21,Non,Yes,Non,Normal,16,Normal,Normal,0.96,Purlent,80% or above
+176,80,Female,<21 kg/m2,1.72,1,Yes,Barcelona,2,3,3,0,Yes,Non,Yes,Normal,18,Normal,Elevate,0.95,Normal,50–79%
+177,56,Male,21<BMI<25 ,1.5,4,Non,Barcelona,2,3,1,36,Non,Non,Non,High,21,Higher,Stage2,0.91,Normal,50–79%
+178,73,Female,<21 kg/m2,1.83,1,Non,Barcelona,1,1,3,0,Yes,Non,Non,Normal,17,Normal,Elevate,0.95,Normal,80% or above
+179,79,Male,21<BMI<25 ,1.89,4,Yes,Barcelona,3,4,3,0,Yes,Non,Yes,High,22,Higher,Crisis,0.9,Normal,29% or less
+180,55,Female,30 ≥BMI <35,1.78,1,Yes,Barcelona,4,2,1,43,Yes,Non,Non,Normal,15,Normal,Normal,0.97,Purlent,50–79%
+181,45,Male,30 ≥BMI <35,1.57,1,Non,Barcelona,1,2,2,33,Non,Non,Non,Normal,16,Normal,Normal,0.97,Normal,80% or above
+182,81,Male,30 ≥BMI <35,1.7,3,Yes,Barcelona,1,4,1,19,Yes,Non,Non,High,22,Higher,Stage2,0.93,Normal,30–49%
+183,50,Male,21<BMI<25 ,1.73,2,Non,Barcelona,2,1,1,45,Non,Yes,Non,Normal,18,Normal,Elevate,0.95,Purlent,50–79%
+184,83,Male,25≥ BMI <30,1.82,2,Non,Barcelona,3,4,3,0,Non,Non,Yes,High,20,Higher,Elevate,0.95,Normal,50–79%
+185,85,Male,21<BMI<25 ,1.74,4,Yes,Barcelona,1,4,1,58,Yes,Yes,Yes,High,22,Higher,Crisis,0.88,Purlent,29% or less
+186,62,Female,21<BMI<25 ,1.59,3,Non,Barcelona,4,3,2,32,Yes,Yes,Non,High,21,Higher,Elevate,0.94,Normal,30–49%
+187,60,Male,<21 kg/m2,1.68,4,Non,Barcelona,1,4,1,43,Non,Non,Non,High,22,Higher,Crisis,0.88,Purlent,29% or less
+188,49,Male,25≥ BMI <30,1.85,4,Non,Barcelona,2,3,1,39,Yes,Yes,Non,High,21,Higher,Stage2,0.93,Normal,30–49%
+189,86,Female,30 ≥BMI <35,1.7,1,Yes,Barcelona,4,0,3,0,Yes,Non,Yes,Normal,17,Normal,Normal,0.96,Normal,80% or above
+190,87,Male,30 ≥BMI <35,1.79,4,Non,Barcelona,2,3,2,10,Yes,Non,Yes,High,22,Higher,Stage1,0.93,Normal,30–49%
+191,76,Male,25≥ BMI <30,1.69,3,Yes,Barcelona,1,4,2,25,Non,Yes,Non,High,22,Higher,Stage2,0.9,Purlent,29% or less
+192,46,Male,25≥ BMI <30,1.78,1,Non,Barcelona,4,1,3,0,Non,Non,Non,Normal,14,Normal,Normal,0.97,Normal,80% or above
+193,46,Female,30 ≥BMI <35,1.7,1,Non,Barcelona,1,0,2,42,Yes,Non,Non,Normal,13,Normal,Normal,0.96,Normal,80% or above
+194,84,Male,25≥ BMI <30,1.84,4,Non,Barcelona,1,3,2,19,Yes,Non,Yes,High,21,Higher,Stage2,0.92,Normal,30–49%
+195,86,Male,<21 kg/m2,1.58,3,Yes,Barcelona,3,4,1,32,Yes,yes,Yes,High,22,Higher,Crisis,0.89,Purlent,29% or less
+196,80,Female,25≥ BMI <30,1.81,2,Non,Barcelona,4,2,3,0,Non,Non,Non,Normal,17,Normal,Elevate,0.95,Normal,80% or above
+197,83,Male,≥35 kg/m2,1.89,1,Yes,Barcelona,2,1,2,37,Yes,Non,Yes,Normal,17,Normal,Stage1,0.95,Purlent,50–79%
+198,56,Female,21<BMI<25 ,1.84,2,Non,Barcelona,4,1,3,0,Yes,Non,Non,Normal,13,Normal,Normal,0.96,Normal,80% or above
+199,63,Male,25≥ BMI <30,1.81,2,Non,Barcelona,2,3,1,29,Yes,Yes,Non,Normal,19,Normal,Stage1,0.96,Normal,50–79%
+200,72,Male,30 ≥BMI <35,1.89,3,Yes,Barcelona,3,4,2,18,Yes,Non,Non,High,20,Higher,Stage1,0.94,Normal,30–49%
+201,45,Female,30 ≥BMI <35,1.8,2,Non,Barcelona,4,1,3,0,Non,Non,Non,Normal,14,Normal,Normal,0.97,Normal,80% or above
+202,59,Female,≥35 kg/m2,1.5,1,Non,Barcelona,2,1,2,48,Yes,Non,Non,Normal,12,Normal,Normal,0.96,Normal,80% or above
+203,80,Male,25≥ BMI <30,1.61,3,Yes,Barcelona,1,4,3,0,Yes,Non,Yes,High,22,Higher,Stage2,0.9,Normal,29% or less
+204,57,Male,21<BMI<25 ,1.66,2,Non,Barcelona,4,2,1,16,Yes,Non,Non,Normal,16,Normal,Elevate,0.96,Purlent,50–79%
+205,87,Male,21<BMI<25 ,1.67,2,Yes,Barcelona,3,2,1,40,Yes,Non,Yes,High,20,Higher,Stage1,0.93,Normal,30–49%
+206,65,Female,21<BMI<25 ,1.62,4,Non,Barcelona,1,4,2,41,Non,Yes,Non,High,22,Higher,Crisis,0.91,Purlent,29% or less
+207,56,Female,21<BMI<25 ,1.66,2,Non,Barcelona,2,1,3,0,Non,Non,Non,Normal,17,Normal,Elevate,0.96,Normal, 
+208,49,Male,25≥ BMI <30,1.55,1,Yes,Barcelona,3,1,3,0,Yes,Yes,Non,Normal,15,Normal,Stage1,0.95,Normal,80% or above
+209,51,Male,≥35 kg/m2,1.89,3,Non,Barcelona,4,3,2,46,Non,Non,Non,High,22,Higher,Stage2,0.93,Purlent,30–49%
+210,49,Male,25≥ BMI <30,1.66,1,Non,Barcelona,4,2,1,36,Non,Non,Non,Normal,18,Normal,Elevate,0.96,Purlent,80% or above
+211,48,Male,<21 kg/m2,1.73,2,Non,Barcelona,2,2,3,0,Yes,Non,Non,Normal,16,Normal,Normal,0.96,Normal,80% or above
+212,57,Male,<21 kg/m2,1.64,2,Non,Barcelona,3,1,3,0,Non,Yes,Non,Normal,13,Normal,Normal,0.97,Normal,80% or above
+213,81,Female,25≥ BMI <30,1.82,3,Non,Barcelona,1,4,2,41,Non,Yes,Non,High,20,Higher,Stage2,0.92,Purlent,29% or less
+214,85,Male,30 ≥BMI <35,1.66,4,Yes,Barcelona,3,3,3,0,Yes,Non,Yes,High,20,Higher,Stage1,0.94,Normal,30–49%
+215,59,Female,≥35 kg/m2,1.64,1,Yes,Barcelona,4,0,1,28,Yes,Non,Non,Normal,15,Normal,Normal,0.98,Normal,80% or above
+216,60,Male,25≥ BMI <30,1.66,2,Non,Barcelona,2,2,1,32,Yes,Non,Non,Normal,18,Normal,Elevate,0.95,Purlent,50–79%
+217,55,Male,25≥ BMI <30,1.62,3,Yes,Barcelona,1,3,2,18,Non,Non,Non,High,21,Higher,Stage1,0.94,Normal,30–49%
+218,80,Male,30 ≥BMI <35,1.81,1,Non,Barcelona,2,2,3,0,Yes,Yes,Non,Normal,15,Normal,Elevate,0.96,Normal,80% or above
+219,68,Female,30 ≥BMI <35,1.87,2,Non,Barcelona,3,1,3,0,Yes,Non,Non,High,21,Higher,Stage1,0.94,Purlent,50–79%
+220,60,Female,25≥ BMI <30,1.63,3,Yes,Barcelona,3,4,2,38,Non,Non,Non,High,22,Higher,Crisis,0.9,Purlent,29% or less
+221,58,Female,25≥ BMI <30,1.88,2,Non,Barcelona,4,1,3,0,Yes,Non,Non,Normal,13,Normal,Normal,0.96,Normal,80% or above
+222,66,Male,25≥ BMI <30,1.51,3,Yes,Barcelona,3,4,2,56,Non,Non,Non,High,23,Higher,Crisis,0.88,Purlent,29% or less
+223,50,Male,30 ≥BMI <35,1.71,2,Non,Barcelona,1,2,3,0,Yes,Non,Non,Normal,15,Normal,Elevate,0.96,Normal,80% or above
+224,86,Female,25≥ BMI <30,1.62,4,Yes,Barcelona,3,4,3,0,Yes,Yes,Yes,High,21,Higher,Crisis,0.9,Normal,29% or less
+225,80,Female,25≥ BMI <30,1.85,3,Non,Barcelona,3,4,1,34,Non,Non,Non,High,22,Higher,Stage2,0.93,Purlent,29% or less
+226,45,Female,30 ≥BMI <35,1.6,1,Yes,Barcelona,1,2,1,11,Yes,Non,Yes,Normal,16,Normal,Normal,0.97,Normal,80% or above
+227,76,Female,<21 kg/m2,1.77,2,Non,Barcelona,2,2,2,26,Yes,Non,Non,Normal,18,Normal,Elevate,0.95,Purlent,50–79%
+228,50,Male,21<BMI<25 ,1.82,3,Non,Barcelona,1,3,1,43,Yes,Non,Non,High,23,Higher,Crisis,0.89,Purlent,29% or less
+229,75,Male,30 ≥BMI <35,1.67,4,Yes,Barcelona,2,4,3,0,Non,Yes,Yes,High,21,Higher,Stage2,0.93,Normal,29% or less
+230,45,Male,30 ≥BMI <35,1.8,1,Non,Barcelona,2,1,2,36,Yes,Non,Non,Normal,14,Normal,Normal,0.96,Normal,80% or above
+231,,,,,,,,,,,,,,,,,,,,,
+232,,,,,,,,,,,,,,,,,,,,,
+233,,,,,,,,,,,,,,,,,,,,,
+234,,,,,,,,,,,,,,,,,,,,,
+235,,,,,,,,,,,,,,,,,,,,,
+236,,,,,,,,,,,,,,,,,,,,,
+237,,,,,,,,,,,,,,,,,,,,,
+238,,,,,,,,,,,,,,,,,,,,,
+239,,,,,,,,,,,,,,,,,,,,,
+240,,,,,,,,,,,,,,,,,,,,,

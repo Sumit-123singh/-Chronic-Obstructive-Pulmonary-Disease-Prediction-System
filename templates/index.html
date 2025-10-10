@@ -1,0 +1,221 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>COPD Severity Prediction</title>
+    <!-- Bootstrap CSS -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet">
+    <style>
+        /* Background with COPD/lungs theme */
+        body {
+            background: linear-gradient(to bottom right, #a1c4fd, #c2e9fb);
+            background-image: url('https://images.unsplash.com/photo-1611988619181-dcf07bba6894?auto=format&fit=crop&w=1400&q=80');
+            background-size: cover;
+            background-repeat: no-repeat;
+            background-blend-mode: overlay;
+            min-height: 100vh;
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            color: #333;
+        }
+
+        .container {
+            margin-top: 50px;
+            max-width: 950px;
+        }
+
+        .card {
+            background-color: rgba(255, 255, 255, 0.95);
+            padding: 35px;
+            border-radius: 25px;
+            box-shadow: 0 15px 30px rgba(0,0,0,0.25);
+        }
+
+        h1 {
+            text-align: center;
+            margin-bottom: 25px;
+            font-weight: 700;
+            color: #1f4e79;
+        }
+
+        label {
+            font-weight: 600;
+            color: #1f4e79;
+        }
+
+        .btn-primary {
+            background-color: #1f4e79;
+            border: none;
+            font-weight: 600;
+            transition: 0.3s;
+        }
+
+        .btn-primary:hover {
+            background-color: #16365c;
+        }
+
+        .prediction {
+            text-align: center;
+            margin-top: 25px;
+            font-size: 1.5rem;
+            color: #d9534f;
+            font-weight: bold;
+        }
+
+        .header-icon {
+            display: block;
+            margin: 0 auto 20px auto;
+            width: 80px;
+        }
+
+        input.form-control {
+            border-radius: 10px;
+            padding: 10px;
+            transition: 0.3s;
+        }
+
+        input.form-control:focus {
+            border-color: #1f4e79;
+            box-shadow: 0 0 10px rgba(31, 78, 121, 0.3);
+        }
+    </style>
+</head>
+<body>
+<div class="container">
+    <div class="card">
+        <!-- Header icon -->
+        <img class="header-icon" src="https://img.icons8.com/fluency/96/lungs.png" alt="Lungs Icon"/>
+        <h1>COPD Severity Prediction</h1>
+        <form action="/predict_form" method="post">
+
+            <!-- Row 1 -->
+            <div class="row mb-3">
+                <div class="col-md-6">
+                    <label>Age</label>
+                    <input type="number" name="Age" min="0" max="120" class="form-control" required>
+                </div>
+                <div class="col-md-6">
+                    <label>Gender (0=Male, 1=Female)</label>
+                    <input type="number" name="Gender" min="0" max="1" class="form-control" required>
+                </div>
+            </div>
+
+            <!-- Row 2 -->
+            <div class="row mb-3">
+                <div class="col-md-6">
+                    <label>BMI (kg/m²)</label>
+                    <input type="number" name="BMI_kg_m2" step="0.1" min="10" max="60" class="form-control" required>
+                </div>
+                <div class="col-md-6">
+                    <label>Height (m)</label>
+                    <input type="number" name="Height_m" step="0.01" min="0.5" max="2.5" class="form-control" required>
+                </div>
+            </div>
+
+            <!-- Row 3 -->
+            <div class="row mb-3">
+                <div class="col-md-6">
+                    <label>History of Heart Failure (0/1)</label>
+                    <input type="number" name="History_of_Heart_Failure" min="0" max="1" class="form-control" required>
+                </div>
+                <div class="col-md-6">
+                    <label>Location (0-5)</label>
+                    <input type="number" name="Location" min="0" max="5" class="form-control" required>
+                </div>
+            </div>
+
+            <!-- Row 4 -->
+            <div class="row mb-3">
+                <div class="col-md-6">
+                    <label>Working Place (0/1)</label>
+                    <input type="number" name="working_place" min="0" max="1" class="form-control" required>
+                </div>
+                <div class="col-md-6">
+                    <label>mMRC (0-4)</label>
+                    <input type="number" name="mMRC" min="0" max="4" class="form-control" required>
+                </div>
+            </div>
+
+            <!-- Row 5 -->
+            <div class="row mb-3">
+                <div class="col-md-6">
+                    <label>Status of Smoking (0/1)</label>
+                    <input type="number" name="status_of_smoking" min="0" max="1" class="form-control" required>
+                </div>
+                <div class="col-md-6">
+                    <label>Pack History</label>
+                    <input type="number" name="Pack_History" min="0" max="200" class="form-control" required>
+                </div>
+            </div>
+
+            <!-- Row 6 -->
+            <div class="row mb-3">
+                <div class="col-md-6">
+                    <label>Vaccination (0/1)</label>
+                    <input type="number" name="Vaccination" min="0" max="1" class="form-control" required>
+                </div>
+                <div class="col-md-6">
+                    <label>Depression (0/1)</label>
+                    <input type="number" name="Depression" min="0" max="1" class="form-control" required>
+                </div>
+            </div>
+
+            <!-- Row 7 -->
+            <div class="row mb-3">
+                <div class="col-md-6">
+                    <label>Dependent (0/1)</label>
+                    <input type="number" name="Dependent" min="0" max="1" class="form-control" required>
+                </div>
+                <div class="col-md-6">
+                    <label>Temperature (°C)</label>
+                    <input type="number" name="Temperature" step="0.1" min="30" max="45" class="form-control" required>
+                </div>
+            </div>
+
+            <!-- Row 8 -->
+            <div class="row mb-3">
+                <div class="col-md-4">
+                    <label>Respiratory Rate</label>
+                    <input type="number" name="Respiratory_Rate" min="10" max="50" class="form-control" required>
+                </div>
+                <div class="col-md-4">
+                    <label>Heart Rate</label>
+                    <input type="number" name="Heart_Rate" min="40" max="180" class="form-control" required>
+                </div>
+                <div class="col-md-4">
+                    <label>Blood Pressure</label>
+                    <input type="number" name="Blood_pressure" step="0.1" min="60" max="250" class="form-control" required>
+                </div>
+            </div>
+
+            <!-- Row 9 -->
+            <div class="row mb-3">
+                <div class="col-md-4">
+                    <label>Oxygen Saturation (0.0-1.0)</label>
+                    <input type="number" name="Oxygen_Saturation" step="0.01" min="0" max="1" class="form-control" required>
+                </div>
+                <div class="col-md-4">
+                    <label>Sputum (0/1)</label>
+                    <input type="number" name="Sputum" min="0" max="1" class="form-control" required>
+                </div>
+                <div class="col-md-4">
+                    <label>FEV1</label>
+                    <input type="number" name="FEV1" step="0.1" min="10" max="120" class="form-control" required>
+                </div>
+            </div>
+
+            <!-- Submit button -->
+            <div class="d-grid">
+                <button type="submit" class="btn btn-primary btn-lg">Predict</button>
+            </div>
+        </form>
+
+        <!-- Prediction Result -->
+        {% if result %}
+        <div class="prediction">
+            Prediction Result: {{ result }}
+        </div>
+        {% endif %}
+    </div>
+</div>
+</body>
+</html>
