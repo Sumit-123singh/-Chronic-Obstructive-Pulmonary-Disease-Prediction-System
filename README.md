@@ -49,6 +49,7 @@ It helps in **early detection and risk assessment**, supporting healthcare profe
 | Frontend          | HTML (Jinja2 Templates)                    |
 | Deployment        | Render / Heroku                             |
 
+```text 
 COPD-Prediction-System/
 │
 ├── venv/ # Python virtual environment (ignored in git)
@@ -67,7 +68,7 @@ COPD-Prediction-System/
 ├── app.py # Main backend application
 ├── requirements.txt # Project dependencies
 └── README.md # Project documentation
-
+  ```
 
 ## 🔹 How It Works
 
