@@ -82,8 +82,8 @@ COPD-Prediction-System/
 ## 🔹 Installation & Setup
 
 1️⃣ Clone the repository
-git clone https://github.com/yourusername/COPD-Prediction-System.git
-cd COPD-Prediction-System
+[git clone https://github.com/yourusername/COPD-Prediction-System.git
+cd COPD-Prediction-System](https://github.com/Sumit-123singh/-Chronic-Obstructive-Pulmonary-Disease-Prediction-System/blob/main/README.md)
 
 2️⃣ Create a virtual environment and activate
 python -m venv venv
