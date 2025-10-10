@@ -49,7 +49,6 @@ It helps in **early detection and risk assessment**, supporting healthcare profe
 | Frontend          | HTML (Jinja2 Templates)                    |
 | Deployment        | Render / Heroku                             |
 
----
 ## 🔹 Project Structure
 
 COPD-Prediction-System/
@@ -76,9 +75,6 @@ COPD-Prediction-System/
 └── README.md # Project documentation
 
 
-
-
----
 
 ## 🔹 How It Works
 
