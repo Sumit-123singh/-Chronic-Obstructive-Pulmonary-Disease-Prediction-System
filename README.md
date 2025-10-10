@@ -52,22 +52,22 @@ It helps in **early detection and risk assessment**, supporting healthcare profe
 ```text 
 COPD-Prediction-System/
 │
-├── venv/ # Python virtual environment (ignored in git)
-├── .ipynb_checkpoints/ # Jupyter notebook checkpoints
+├── venv/ 
+├── .ipynb_checkpoints/
 │   ├── 230patientsCOPD-checkpoint.csv
 │   └── asthma_dataset-checkpoint.csv
 ├── anaconda_projects/
 │   └── db/
 │       └── project_filebrowser.db
-├── models/ # Machine learning models
+├── models/ 
 │   ├── full_pipeline.joblib
 │   ├── full_pipeline.pkl
 │   └── gradient_boost_model.pkl
-├── templates/ # HTML frontend files
+├── templates/
 │   └── index.html
-├── app.py # Main backend application
-├── requirements.txt # Project dependencies
-└── README.md # Project documentation
+├── app.py 
+├── requirements.txt
+└── README.md 
   ```
 
 ## 🔹 How It Works
